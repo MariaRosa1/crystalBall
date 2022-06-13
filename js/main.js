@@ -40,6 +40,6 @@ function clicar(){
     setTimeout(function (){
         resposta.innerHTML = ''
         resultado.innerHTML = ''
-      }, "3000")
+      }, "5000")
 }
 
